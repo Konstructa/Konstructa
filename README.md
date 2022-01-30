@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Typescript/NodeJS
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstructa&layout=compact&theme=github_dark&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
