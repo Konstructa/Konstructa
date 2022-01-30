@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 - 🌱 I’m currently learning Typescript/NodeJS
+-  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/milena-limoeiro-51739b210/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstructa&layout=compact&theme=github_dark&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstructa&layout=compact&show_icons=true&theme=radical&langs_count=3&hide=dart,cmake)](https://github.com/Konstructa/github-readme-stats)
