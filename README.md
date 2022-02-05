@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning NodeJS with Typescript
--  🔭 I’m currently working on activities to practice my studies
+-  🔭 I’m currently working on projects to practice my studies
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/milena-limoeiro-51739b210/)
 
 
