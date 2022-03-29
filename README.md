@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- 🌱 I’m currently learning NodeJS with Typescript
+-  ✨ ILP with Python  
+-  🌱 I’m currently learning SQL
+-  🌱 I’m currently learning NodeJS with Typescript
 -  🔭 I’m currently working on projects to practice my studies
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/milena-limoeiro-51739b210/)
 
