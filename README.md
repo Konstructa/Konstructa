@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  ✨ ILP with Python  
--  🌱 I’m currently learning SQL
+-  ✨ Dev Javascript and Typescript
+-  ✨ Basics of Python  
+-  ✨ Basics of AWS
+-  ✨ SQL - SQLServer and MysqlSql
+-  🌱 I’m currently learning ReactJS with Typescript
 -  🌱 I’m currently learning NodeJS with Typescript
 -  🔭 I’m currently working on projects to practice my studies
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/milena-limoeiro-51739b210/)
