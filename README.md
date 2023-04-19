@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -  ✨ Dev Javascript and Typescript
 -  ✨ Basics of Python  
 -  ✨ Basics of AWS
--  ✨ SQL - SQLServer and MysqlSql
+-  ✨ SQL - SQLServer and MySQL
 -  🌱 I’m currently learning ReactJS with Typescript
 -  🌱 I’m currently learning NodeJS with Typescript
 -  🔭 I’m currently working on projects to practice my studies
