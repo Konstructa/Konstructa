@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  ✨ Dev Javascript and Typescript
--  ✨ Basics of Python  
--  ✨ Basics of AWS
--  ✨ SQLServer and MySQL
 -  🌱 I’m currently learning ReactJS with Typescript
 -  🌱 I’m currently learning NodeJS with Typescript
 -  🔭 I’m currently working on projects to practice my studies
+-  ✨ Developer Javascript and Typescript
+-  ✨ Basics of Python  
+-  ✨ Basics of AWS
+-  ✨ SQLServer and MySQL
+
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/milena-limoeiro-51739b210/)
 
 
