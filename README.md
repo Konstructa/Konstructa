@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstructa&layout=compact&show_icons=true&theme=radical&langs_count=4&hide=cmake,jupyter,c%2B%2B)](https://github.com/Konstructa/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstructa&layout=compact&show_icons=true&theme=radical&langs_count=4&hide=cmake,jupyter,c%2B%2B,jupyter%20notebook)](https://github.com/Konstructa/github-readme-stats) 
