@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  🌱 I’m currently learning ReactJS with Typescript
--  🌱 I’m currently learning NodeJS with Typescript
+-  🌱 I’m currently learning ReactJS and Nextjs with Typescript
 -  🔭 I’m currently working on projects to practice my studies
+-  ✨ Developer NodeJS with Typescript
+-  ✨ Developer C# .NET
 -  ✨ Developer Javascript and Typescript
+-  ✨ Basics of Docker
 -  ✨ Basics of Python  
 -  ✨ Basics of AWS
 -  ✨ SQLServer and MySQL
