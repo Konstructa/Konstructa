@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-  🌱 I’m currently learning ReactJS and Nextjs with Typescript
 -->
 
--  🌱 I’m currently learning ReactJS and Nextjs with Typescript
--  🔭 I’m currently working on projects to practice my studies
+-  🔭 I’m currently learnin Vuejs 
+-  🔭 I’m currently learnin Laravel 
 -  ✨ Developer NodeJS with Typescript
 -  ✨ Developer C# .NET
 -  ✨ Developer Javascript and Typescript
